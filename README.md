@@ -13,6 +13,7 @@ This project is developed to demonstrate the basics of CRUD functions using C# C
 -   Database integrity
 -   OOP
 -   SqLite
+-   Dapper
 
 ## Main View:
 ![consoleMainMenu](https://user-images.githubusercontent.com/68903153/212562461-7e2c548a-c79d-4741-8168-1b4c47721e25.png)
